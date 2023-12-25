@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Benny Heller built the Arachnopunk app as a Commercial app. This application is provided by Benny Heller and is intended for use as is.
+ELSIF Games built the Arachnowopunk app as a Commercial app. This application is provided by ELSIF Games and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my application.
 
